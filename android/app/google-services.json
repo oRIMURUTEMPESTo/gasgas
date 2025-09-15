@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141595166694",
+    "project_id": "gasolin-a7b482a9",
+    "storage_bucket": "gasolin-a7b482a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141595166694:android:56292085934ac6a0e57827",
+        "android_client_info": {
+          "package_name": "com.example.mygas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAboVpJt8QjG5kYsBIdtVWKxSHXuno2sns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
